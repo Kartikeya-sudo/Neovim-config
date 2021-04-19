@@ -1,0 +1,9 @@
+source ~/.config/nvim/general/settings.vim
+source ~/.config/nvim/plug-config/ntree.vim
+source ~/.config/nvim/plugins/plugins.vim
+source ~/.config/nvim/plug-config/coc.vim
+source ~/.config/nvim/keys/mappings.vim
+source ~/.config/nvim/plug-config/fzf.vim
+source ~/.config/nvim/general/theme.vim
+source ~/.config/nvim/general/font.vim
+source ~/.config/nvim/plug-config/hop.vim
